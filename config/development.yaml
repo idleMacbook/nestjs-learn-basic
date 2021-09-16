@@ -1,0 +1,8 @@
+db:
+  host: 'localhost'
+  username: 'postgres'
+  password: 'bs741540'
+  synchronize: true
+
+jwt:
+  secret: 'idle.mac.jwt.nestJS.board'
